@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Web Development 
+
+Here we will learn about HTML, CSS and JS to build a professional websites. 
 
 You can use the [editor on GitHub](https://github.com/ramzanshahid2022skipq/coursera-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
